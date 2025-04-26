@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: lauren8-theme
+description: "This is an amazing theme created by yours truly, Lauren"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
